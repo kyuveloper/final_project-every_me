@@ -10,6 +10,8 @@
 - Test ID:
 - Test PW:
 
+<br>
+
 ## 프로젝트 소개
 
 - **EveryMe**는 자기 관리에 진심인 사람들을 위한 자기 관리 어플리케이션 입니다.
@@ -18,9 +20,13 @@
 - **스톱워치, 카운터, 만보기** 등 간단하지만 운동에 필요한 기능들을 한 앱에서 모두 이용할 수 있습니다.
 - (유저들이 업로드하는 식단들을 보며 서로 식단 정보 등을 나누며 교류할 수 있습니다.
 
+<br>
+
 ## 팀원 소개
 
-- 이창주
+- 이창주 (팀장) :
+- 김진규 :
+- 홍성혁 : 
 
 <div align="center">
 
@@ -29,3 +35,11 @@
 | [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @lcj626](https://github.com/lcj626) | [<img src="https://avatars.githubusercontent.com/u/112460466?v=4" height=150 width=150> <br/> @kyuveloper](https://github.com/kyuveloper) | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> @hsh30835](https://github.com/hsh30835) |
 
 </div>
+
+<br>
+
+## 1. 개발 환경
+
+| **Front** | **Back** | **DB** |
+| :------: | :------: | :------: |
+| React Native | Spring | JPA |

@@ -43,3 +43,9 @@
 | **Front** | **Back** | **DB** |
 | :------: | :------: | :------: |
 | React Native | Spring | JPA |
+
+<br>
+
+## 아키텍처
+
+![Architecture](https://github.com/kyuveloper/final_project-every_me/assets/146961238/4e93fbc5-f710-4ccf-82ff-c03b8715072f)
